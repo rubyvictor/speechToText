@@ -11,10 +11,6 @@ import Speech
 import AVFoundation
 
 
-import AVKit
-import AVFoundation
-
-
 
 class ViewController: UIViewController, SFSpeechRecognitionTaskDelegate, SFSpeechRecognizerDelegate {
     
