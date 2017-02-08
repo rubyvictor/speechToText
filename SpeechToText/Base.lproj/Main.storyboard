@@ -38,7 +38,7 @@
                                     <constraint firstItem="nKh-z9-dQK" firstAttribute="centerY" secondItem="J3G-m1-znP" secondAttribute="centerY" id="uDp-XK-6VX"/>
                                 </constraints>
                             </view>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EKx-dp-osY">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="tailTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EKx-dp-osY">
                                 <rect key="frame" x="107" y="318" width="161" height="50"/>
                                 <color key="backgroundColor" red="0.91565144060000003" green="0.27485227579999999" blue="0.21561089159999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
