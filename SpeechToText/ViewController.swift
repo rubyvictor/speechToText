@@ -145,7 +145,7 @@ class ViewController: UIViewController, SFSpeechRecognitionTaskDelegate, SFSpeec
             self.microphoneButton.setTitle("Start Recording", for: [])
         }else {
            self.microphoneButton.isEnabled = false
-            self.microphoneButton.setTitle("Recognition not available", for: .disabled)
+            self.microphoneButton.setTitle("No Recognition", for: .disabled)
             
         }
     }

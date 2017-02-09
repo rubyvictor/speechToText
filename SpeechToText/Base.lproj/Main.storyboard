@@ -39,17 +39,16 @@
                                 </constraints>
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="tailTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EKx-dp-osY">
-                                <rect key="frame" x="107" y="318" width="161" height="50"/>
+                                <rect key="frame" x="62.5" y="318" width="250" height="50"/>
                                 <color key="backgroundColor" red="0.91565144060000003" green="0.27485227579999999" blue="0.21561089159999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="161" id="Cgu-8g-MCj"/>
+                                    <constraint firstAttribute="width" constant="250" id="1af-JR-TEa"/>
                                     <constraint firstAttribute="height" constant="50" id="GOC-1u-tRs"/>
                                 </constraints>
                                 <state key="normal">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="microphoneButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cfr-iH-pr2"/>
                                     <action selector="microphoneTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ydA-Pb-dcm"/>
                                 </connections>
                             </button>
